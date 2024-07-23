@@ -546,6 +546,9 @@ iframe{
     .propervis{
         display: none;
     }
+    .navbar-brand p{
+        font-size:smaller;
+    }
     
 }
 @media only screen and (min-width:100px) and (max-width:995px){
